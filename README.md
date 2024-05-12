@@ -28,4 +28,6 @@ C. __Religion__
 
 ## Méthodologie
 
+  - constitution des catégories
+  - grille d'analyse
 ## 
