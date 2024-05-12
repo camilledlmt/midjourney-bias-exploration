@@ -12,8 +12,19 @@ Our repository hosts our research as well as data for the Decoding Biases in AI 
 ## Lit review
 
 A. __Environment__
+
+<br>
+
+
 B. __Representation of the people__
+
+<br>
+
+
 C. __Religion__
+
+<br>
+
 
 ## Méthodologie
 
