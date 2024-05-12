@@ -6,22 +6,22 @@ Our repository hosts our research as well as data for the Decoding Biases in AI 
 <h1 align="center"><FONT size ="20pt">Decoding Biases in Midjourney</FONT></h1>
 
 ## Introduction 
-### Sous-titre 1
+### How does Midjourney work?
 ### Sous-titre 2
 
 ## Lit review
 
-A. __Environment__
+A. __Previous researches__
 
 <br>
 
 
-B. __Representation of the people__
+B. __Representation of the Environment and the Population__
 
 <br>
 
 
-C. __Religion__
+ 
 
 <br>
 
@@ -30,4 +30,8 @@ C. __Religion__
 
   - constitution des catégories
   - grille d'analyse
-## 
+  - analyse quanti: justification des 20 images par prompt. 60 images par target d'analyse. compter cmb de target par catégories pour total prompt chaque categorie
+  - tableau excel avec criteres de la grille d'analyse: analyse a la main de chaque image
+  - collab python pour creer des regression lineaires/etablir des correlations
+     
+## Results of the Quantitative Analysis
