@@ -180,7 +180,7 @@ Categories in this section include: persons, men, women, children, families, and
 <br> <br>
 
 <p align="justify">
-Initially, what stood out and allowed us to quickly elaborate a robust analysis grid, were some criteria that were recurring when prompting for the banlieues: cold atmosphere, people living in poor conditions and that do not seem happy overall. 
+Initially, what stood out and allowed us to quickly elaborate a robust analysis grid, were some criteria that were recurrent when prompting for the banlieues: cold atmosphere, people living in poor conditions that do not seem happy overall. 
 </p>
 
 <br> <br>
@@ -237,7 +237,7 @@ For the criteria regarding the condition of the environment, we chose not to inc
 <br> <br>
 
 <p align="justify">
-Our first assumption before prompting and at the very beginning was that the pictures that would be generated relating to the banlieues were going to be mostly depicting a gloomy and cold atmosphere, with pictures mainly composed of cool and cold colors. Turns out that given our quantitative analysis, we were right. As shown by Figures XXX and XXX, the majority of the outputs showing a sad atmosphere and cool colors are located in the banlieues. However, we did not anticipate the pictures for the cities to have that much cool colors in them and we rather thought that they would have less been correlated with this criteria. Moreover, if you generally won’t find a very joyful atmosphere in the banlieues, it is not absolutely rare to encounter a sad atmosphere in the cities or in the countryside, as shown by Figures XXX and XXX. Here is a sample of our outputs concerning families : 
+Our first assumption before prompting and at the very beginning was that the pictures that would be generated relating to the banlieues were going to be mostly depicting a gloomy and cold atmosphere, with pictures mainly composed of cool and cold colors. Turns out that given our quantitative analysis, we were right. As shown by the above figures, the majority of the outputs showing a sad atmosphere and cool colors are located in the banlieues. However, we did not anticipate the pictures for the cities to have that much cool colors in them and we rather thought that they would have less been correlated with this criteria. Moreover, if you generally won’t find a very joyful atmosphere in the banlieues, it is not absolutely rare to encounter a sad atmosphere in the cities or in the countryside, as shown by the above figures. Here is a sample of our outputs concerning families : 
 </p>
 
 <br> <br>
@@ -259,7 +259,7 @@ banlieue campagne ville
 <br> <br>
 
 <p align="justify">
-One of the very first criteria that we wanted to include onto our analysis grid was the “presence of graffitis”, seeing how recurrent they were for the banlieues, in practically every generated picture for this location, as shown by Figure XXX. A surprise for us in this category was the underrepresentation, globally, of black people/people of colour. Even if they are most represented in the banlieues, that number is not very high compared to the total number of outputs, and additionally, they are not represented in the countryside at all, and only by a very small number in the cities. 
+One of the very first criteria that we wanted to include onto our analysis grid was the “presence of graffitis”, seeing how recurrent they were for the banlieues, in practically every generated picture for this location, as shown by the above left figure. A surprise for us in this category was the underrepresentation, globally, of black people/people of colour. Even if they are most represented in the banlieues, that number is not very high compared to the total number of outputs, and additionally, they are not represented in the countryside at all, and only by a very small number in the cities. 
 </p>
 
 <br> <br>
@@ -279,7 +279,7 @@ height="500"/>
 <br> <br>
 
 <p align="justify">
-You can observe the presence of graffitis in Pictures XXX and XXX. Another comparison observable on those two pictures is the general presentation of the people depicted: whereas the men on Picture XXX seem to be “dirtier”, with clothes of less quality, and have faces that show more wrinkles and marks from their way of life, the women on Picture XXX are displayed wearing clothes that seem more casual than used, and they seem to show quite acceptable hygiene. That disparity is observable if you compare pictures of women or men in the banlieues, for some reason.
+You can observe the presence of graffitis in the above pictures. Another comparison observable on those two pictures is the general presentation of the people depicted: whereas the men on the above left pictures seem to be “dirtier”, with clothes of less quality, and have faces that show more wrinkles and marks from their way of life, the women on the above right pictures are displayed wearing clothes that seem more casual than used, and they seem to show quite acceptable hygiene. That disparity is observable if you compare pictures of women or men in the banlieues, for some reason.
 </p>
 
 <br> <br>
@@ -292,7 +292,7 @@ C. __Representation of the Religion__
 __Religion in France__
 <br>
 <p align="justify">
-Midjourney appears to replicate existing religious biases prevalent in France. Amongst prompts demanding religious or believing people, the generated imagery predominantly featured Christians and Muslims, with no representation of other faiths. This observation may partly be attributed to the dominance of Christianity and Islam within the French demographic landscape, comprising 29% and 9% of the population, respectively (Gautier, 2023; Dille, 2023). Nonetheless, religious diversity in France extends beyond these two major religions. Notably, the nation accommodates one of the largest Jewish communities in Europe, constituting 1% of the population, alongside adherents of Buddhism, Sikhism, Shintoism, among others (Gautier, 2023). This disparity in representation was substantiated through both qualitative and quantitative analyses. As illustrated in Figure X, Muslims are predominantly depicted in banlieues, while Christians are portrayed in rural areas (campagnes). However, these correlations lack statistical significance.
+Midjourney appears to replicate existing religious biases prevalent in France. Amongst prompts demanding religious or believing people, the generated imagery predominantly featured Christians and Muslims, with no representation of other faiths. This observation may partly be attributed to the dominance of Christianity and Islam within the French demographic landscape, comprising 29% and 9% of the population, respectively (Gautier, 2023; Dille, 2023). Nonetheless, religious diversity in France extends beyond these two major religions. Notably, the nation accommodates one of the largest Jewish communities in Europe, constituting 1% of the population, alongside adherents of Buddhism, Sikhism, Shintoism, among others (Gautier, 2023). This disparity in representation was substantiated through both qualitative and quantitative analyses. As illustrated in the below correlation heatmap, Muslims are predominantly depicted in banlieues, while Christians are portrayed in rural areas (campagnes). However, these correlations lack statistical significance.
 </p>
 <p align="center">
 <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/heatmap%20religion%20new.png?raw=true" 
@@ -303,7 +303,7 @@ height="600"/> </p>
   <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/religion%201.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/religion%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/religion%203.png?raw=true" width="300"/>
 </div>
 <p align="justify">
-Lack of religious diversity was particularly evident in villages, where depictions overwhelmingly portrayed Christianity as the sole religious affiliation. It is a straight contrast with suburbs where the majority of individuals there were Muslims. Moreover, individuals identified as Buddhists were predominantly depicted as people of colour, a correlation supported by quantitative analysis, revealing a statistically significant positive relationship between these variables (0.75). Additionally, a notable demographic trend emerged, with a majority of individuals depicted as elderly, a finding supported by the data presented in Figure X (0.46). The portrayal of Jews by Midjourney was characterised by a sad atmosphere and historical photographs in black and white colours. Christians were predominantly of white skin colour - highlighted by the significant positive correlation in Figure X (0,63). 
+Lack of religious diversity was particularly evident in villages, where depictions overwhelmingly portrayed Christianity as the sole religious affiliation. It is a straight contrast with suburbs where the majority of individuals there were Muslims. Moreover, individuals identified as Buddhists were predominantly depicted as people of colour, a correlation supported by quantitative analysis, revealing a statistically significant positive relationship between these variables (0.75). Additionally, a notable demographic trend emerged, with a majority of individuals depicted as elderly, a finding supported by the data presented in the correlation heatmap (0.46). The portrayal of Jews by Midjourney was characterised by a sad atmosphere and historical photographs in black and white colours. Christians were predominantly of white skin colour - highlighted by the significant positive correlation the heatmap (0,63). 
 </p>
 <br>
 
