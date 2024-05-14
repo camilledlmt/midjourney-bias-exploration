@@ -215,19 +215,6 @@ height="500"/>
 You can observe the presence of graffitis in Pictures XXX and XXX. Another comparison observable on those two pictures is the general presentation of the people depicted: whereas the men on Picture XXX seem to be “dirtier”, with clothes of less quality, and have faces that show more wrinkles and marks from their way of life, the women on Picture XXX are displayed wearing clothes that seem more casual than used, and they seem to show quite acceptable hygiene. That disparity is observable if you compare pictures of women or men in the banlieues, for some reason.
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 C. __Representation of the Religion__
 
 <br> 
@@ -237,6 +224,9 @@ C. __Representation of the Religion__
 <br><br>
 
 AIExplorer. (2023, January 13). Comment marche MIDJOURNEY? https://aiexplorer.io/actualites-ia/comment-marche-midjourney/ <br>
+Donars, A., & Touaf, N. (2020, February 16). La couverture médiatique des banlieues. La Nouvelle Chronique. https://lanouvellechronique.com/2020/02/16/la-couverture-mediatique-des-banlieues/
+Guilbeault, M. (2023, July 13). Les banlieues, sous le radar des médias. La Croix. https://www.la-croix.com/France/banlieues-radar-medias-2023-07-13-1201275251
+Harding, P. (2023, March). Global Challenges - Urban Morphology & Violence. Global Challenges. https://globalchallenges.ch/issue/special_2/stagnation-in-the-french-banlieues/
 Ho, K. K. (2024, January 2). Database of 16,000 Artists Used to Train Midjourney AI, Including 6-Year-Old Child, Garners Criticism. https://www.artnews.com/art-news/news/midjourney-ai-artists-database-1234691955/<br>
 Hu, J. (2023, April 6). Bias in Midjourney — It’s not just the Representation, it’s the Art Direction. Medium. https://medium.com/@hujason/race-and-gender-bias-in-midjourney-c43e92f515f<br>
 King, M. (2022). Harmful biases in artificial intelligence. The Lancet Psychiatry, 9(11). https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(22)00312-1/fulltext<br>
@@ -244,10 +234,12 @@ Kobie, N. (2023, December 21). Bias in AI: what 200 images of people at work rev
 Kokoreff, D. M., & Lapeyronnie, D. (s. d.). The French Banlieue: Renovating the Suburbs.<br>
 Laion. (n.d.). https://laion.ai/<br>
 Lair, N. (2023, November 8). Tags, déchets, bâtiments délabrés : quand l’IA reproduit les stéréotypes sur les banlieues. France Inter. https://www.radiofrance.fr/franceinter/tags-dechets-batiments-delabres-quand-l-ia-reproduit-les-stereotypes-sur-les-banlieues-3334839<br>
+Lefebvre, I. (2022, June 28). Life in France’s Banlieues: Overview and Battle Plan. Institut Montaigne. https://www.institutmontaigne.org/en/expressions/life-frances-banlieues-overview-and-battle-plan
 Lin, Maire, Belongie, & Bourdev. (2014, May 1). Microsoft COCO: Common Objects in Context. https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context<br>
 Madse, M. C. (s. d.). Banlieues 89: Urban Design and the Urban Question.<br>
 Maker, A. (n.d.). How Midjourney Was Trained. https://imaigic.com/blog/how-mj-was-trained#:~:text=One%20of%20the%20most%20popular<br>
 Midjourney. (n.d.). Midjourney Prompts. Docs.midjourney.com. https://docs.midjourney.com/docs/prompts-2<br>
+Observatoire des Inégalités. (2022, October 12). Ville, périurbain, campagne : qui est riche, qui est pauvre ? Observatoire Des Inégalités. https://inegalites.fr/Ville-periurbain-campagne-qui-est-riche-qui-est-pauvre
 Rivai, Z. (2023, June 6). When AI Mirrors Our Flaws: Unveiling Bias in MidJourney. Medium. https://medium.com/@zaida.rivai/when-ai-mirrors-our-flaws-unveiling-bias-in-midjourney-1d5ef73b8e99<br>
 Stelzel, P. (2023, May 9). Midjourney: Midjourney Tested In Foreign Languages. https://philipp-stelzel.com/midjourney-foreign-languages/<br>
 Wankhede, C. (2023, May 15). What is Midjourney AI and how does it work? Android Authority. https://www.androidauthority.com/what-is-midjourney-3324590/<br>
