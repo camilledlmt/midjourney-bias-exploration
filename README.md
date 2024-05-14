@@ -137,8 +137,27 @@ Initially, what stood out and allowed us to quickly elaborate a robust analysis 
 <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/correlation%20heatmap.png?raw=true" 
 width="800"
 height="600"/> </p>
+<br>
+<p align="justify">
+Criteria that show the highest correlations with the banlieue are cool colors (0.68), sad atmosphere (0.68), black skin/people of color (0.72), presence of graffitis (0.88) and degraded environment (0.92). On the contrary, factors like joyful atmosphere, warm colors and good condition environment are highly negatively correlated with the banlieue. For the cities, it is the opposite; we found a high correlation with the good condition environment criteria (0.91) as well as with a joyful atmosphere (0.63). Let’s see how those criteria appear in some bar plots  and linear regressions representations: 
+</p>
 
 <br><br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/good%20contiion%20environment.png" 
+width="600"
+height="500"/> </p>
+<br>
+<p align="center">
+  Good Condition Environment
+<br><br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/degraded.png" 
+width="600"
+height="500"/> </p>
+
+
+
 
 
 C. __Representation of the Religion__
