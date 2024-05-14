@@ -10,6 +10,16 @@ Our repository hosts our research as well as data for the Decoding Biases in AI 
 ## Introduction 
 
 <br>
+<p align="justify">
+The Midjourney algorithm might be known best for its impact on the art world. Indeed, it received [global](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html) attention when Jason M. Allen won the Colorado State Fair digital artwork competition in 2022 by using Midjourney to generate his entry (NYT, 2022). This competition generated a  discussion about the future of art, fairness in art competitions, and reminded the public of the increasing capabilities of AI systems. Despite Midjourney’s ability to generate hyper-realistic and high quality artwork, the system has generated controversy due to its apparent biases. In 2023, Heetch, a French VTC company, launched a publicity campaign which put Midjourney’s biases at its centre. It denounced the stereotypes that the algorithm displayed when the word “banlieue” was inserted in a prompt, notably that the environment was often degraded, and people were displayed as sad and poor. 
+</p>p
+<br>
+<p align="justify">
+This research builds on Heetch’s publicity campaign by studying the systematic biases displayed by Midjourney against the banlieue. For this purpose, our study aims to analyse environmental biases, poverty biases, and religious biases both qualitatively and quantitatively.
+</p>
+<br>
+
+
 
 ### How does Midjourney work?
 
@@ -57,7 +67,8 @@ In summary, all of these studies collectively underscore the urgent need for mit
 
 ## Méthodologie
 
-<br> <br>
+<br>
+<br> 
 
   - constitution des catégories
   - grille d'analyse
@@ -67,29 +78,48 @@ In summary, all of these studies collectively underscore the urgent need for mit
 
 <br><br>
 
+
 # Qualitative and Quantitative Analysis
 
+
 <br><br>
 
 
 <br><br>
+
 ## Literature Analysis
+
+<br>
 
 A. __Representation of the Environment__
 
+<br>
+<p align="justify">
 The landscape of the banlieues is deeply intertwined with France's post-war urban design choices. Following World War II, a housing crisis gripped the nation due to a surge in urban migration and wartime destruction. In response, the government launched a large-scale social housing program (HLM) in the 1950s, under the ["Plan Courant"](https://francearchives.gouv.fr/fr/pages_histoire/39082). This ambitious plan resulted in the construction of vast housing estates, known as "grands ensembles," on the outskirts of major cities. These estates were dominated by high-rise apartment buildings ("barres"), built with the aim of providing affordable and modern housing for a rapidly growing population.
+</p>
+
+<br>
 
  __Urban design characteristics__
 
+<br>
+<p align="justify">
 The banlieues, a term often associated with the suburbs of French cities, have become synonymous with high-density housing. Towering above the urban landscape, these high-rise buildings, frequently surpassing 10 stories, pack a large number of residents into a compact space. The architecture of these structures is regularly critiqued for its monolithic design—uniform and lacking diversity, where the rapidity and efficiency of construction took precedence over aesthetic considerations. This has resulted in a limited amount of green space and public areas, with the original urban planning favoring housing blocks over communal gardens, public squares, or places for community engagement. Furthermore, these neighborhoods are typically segregated from city centers, situated on the outskirts with inadequate public transport links, making access to the city’s heart a challenge. The commercial amenities within the banlieues themselves are often scarce, compounding the sense of isolation from the bustling city life.
+</p>
+<br>
 
 __Criticisms and Modernization Efforts__ 
 
+<br>
+<p align="justify">
 The banlieues, often stigmatized for unemployment, crime, and social unrest, have long been the subject of critical discourse. Critics point to the very fabric of urban design as a catalyst for these issues, suggesting that the layout promotes isolation, curtails opportunities, and engenders a pervasive sense of disenfranchisement among residents.
-
+</p>
+<br>
+<p align="justify">
 In response to these challenges, recent decades have witnessed concerted efforts to breathe new life into these suburban areas. Demolition and reconstruction initiatives have seen some of the most dilapidated housing blocks razed to make way for lower-density, mixed-use developments. Urban renewal projects have focused on enhancing public spaces, introducing verdant areas, and fortifying public transportation networks. Alongside these physical transformations, there has been a marked emphasis on social programs aimed at bolstering social services, broadening educational prospects, and fostering community engagement, all in a bid to reinvigorate the banlieues and their inhabitants.
-
-
+</p>
+<br>
+<br>
 
 B. __Representation of the Population__
 
@@ -103,21 +133,35 @@ B. __Representation of the Population__
 <p align="justify">
 The literature on biases concerning the population and poverty in the French banlieues reveals a complex interplay of socio-economic factors, historical legacies, and policy shortcomings. 
 </p>
+
+<br> <br>
+
 <p align="justify">
 Statistical analyses highlight disparities in the income distribution and the access to resources between suburbs and urban centers. Even if they are home to a high portion of the population, banlieues receive less state funding compared to other regions, which perpetuates socio-economic inequalities. For instance, the poverty rate inside the Quartiers Prioritaires de la Ville (QPVs) was around 42% in 2016, which is significantly higher than the 12% poverty rate in other areas surrounding the QPVs, underscoring the concentration of poverty in these neighborhoods. (Lefebvre, 2022)
 </p>
+<br> <br>
 <p align="justify">
 Then, the concept of path dependency, (Harding, 2023), explains how historical and policy factors contributed to constant biases in urban policies. Successive governments have relied on past practices, by primarily focusing on urban renewal rather than addressing the systemic issues underlying social integration and resource distribution. This has resulted in a cycle of ineffective policies in France that are failing to improve the living conditions of banlieue residents, reinforcing negative stereotypes and perceptions.
 </p>
+
+<br> <br>
+
 <p align="justify">
 Lastly, we observe spatial dimensions of poverty in France which reveals that while banlieues show higher median incomes compared to isolated rural regions, they also harbor certain groups of extreme poverty. (Observatoire des Inégalités, 2022). There is a need to move beyond simplistic narratives that categorize banlieues as either affluent or deprived, emphasizing the heterogeneity within these neighborhoods and the diverse experiences of their residents.
 </p>
+
+<br> <br>
+
 <p align="justify">
 Media coverage of suburbs is often negative and stereotypical, focusing primarily on social issues such as poverty, violence, and crime (Donars & Touaf, 2020). This media representation contributes to creating and perpetuating harmful stereotypes, influencing public perception and policy-making. 
 </p>
+
+<br> <br>
+
 <p align="justify">
 Overall, the literature collectively highlights the multifaceted nature of biases towards the population and poverty in French banlieues. From unequal resource allocation to historical legacies of urban planning, these biases are shaping different aspects of the public discourse, policy decisions, and finally, the lived experiences of residents of the banlieues. This section aims to evaluate the degree at which Midjourney also reflects those kinds of biases in regards to the representation of the population of the Banlieues. 
 </p>
+
 <br>
 <br><br>
 
@@ -128,21 +172,28 @@ Overall, the literature collectively highlights the multifaceted nature of biase
 <p align="justify">
 Categories in this section include: persons, men, women, children, families, and young people. 
 </p>
+
+<br> <br>
+
 <p align="justify">
 Initially, what stood out and allowed us to quickly elaborate a robust analysis grid, were some criteria that were recurring when prompting for the banlieues: cold atmosphere, people living in poor conditions and that do not seem happy overall. 
 </p>
-<br>
+
+<br> <br>
 
 <p align="center">
 <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/correlation%20heatmap.png?raw=true" 
 width="800"
 height="600"/> </p>
-<br>
+
+<br> <br>
+
 <p align="justify">
 Criteria that show the highest correlations with the banlieue are cool colors (0.68), sad atmosphere (0.68), black skin/people of color (0.72), presence of graffitis (0.88) and degraded environment (0.92). On the contrary, factors like joyful atmosphere, warm colors and good condition environment are highly negatively correlated with the banlieue. For the cities, it is the opposite; we found a high correlation with the good condition environment criteria (0.91) as well as with a joyful atmosphere (0.63). Let’s see how those criteria appear in some bar plots  and linear regressions representations: 
 </p>
 
 <br><br>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/good%20contiion%20environment.png" 
 width="600"
@@ -153,6 +204,7 @@ height="500"/> </p>
 </p>
 
 <br><br>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/degraded.png" 
 width="600"
@@ -161,59 +213,88 @@ height="500"/> </p>
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/good%20contiion%20environment.png" width="300"/> <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/degraded.png" width="300"/>
 </div>
-<br>
+
+<br> <br>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/banlieue%20degraded.png" 
 width="750"
 height="500"/> </p>
-<br>
+
+<br> <br>
+
 <p align="justify">
 For the criteria regarding the condition of the environment, we chose not to include the location of the campagne, mainly because it mostly only displayed fields or natural elements in the background of the pictures. Therefore, it was impossible to evaluate the living conditions of the people that were depicted in the outputs. Globally, we observe a very clear distinction between the living conditions between the banlieues and the cities. Conditions are depicted in a very deplorable way in the banlieue, where the surroundings represented seem at best only degraded, and in the worst cases even completely abandoned, whereas the cities usually represent typical French streets, similar to those you would see in Paris for example, except for some exceptions. Here are representative outputs of the global environment in both banlieues and cities: 
 </p>
+
+<br> <br>
+
 <div style="text-align: center;">
   <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%201.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%20ville%202.png?raw=true" width="300"/>
 </div>
 “Photo réaliste d’un enfant en France dans une banlieue” vs “Photo réaliste d’un enfant en France dans une ville”
-<br>
+
+<br> <br>
+
 <div style="text-align: center;">
   <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/cool%20colorss.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/warm%20colorss.png?raw=true" width="300"/>
 </div>
-<br>
+
+<br> <br>
+
 <div style="text-align: center;">
   <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/sad%20atm.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/joyful.png?raw=true" width="300"/>
 </div>
-<br>
+
+<br> <br>
+
 <p align="justify">
 Our first assumption before prompting and at the very beginning was that the pictures that would be generated relating to the banlieues were going to be mostly depicting a gloomy and cold atmosphere, with pictures mainly composed of cool and cold colors. Turns out that given our quantitative analysis, we were right. As shown by Figures XXX and XXX, the majority of the outputs showing a sad atmosphere and cool colors are located in the banlieues. However, we did not anticipate the pictures for the cities to have that much cool colors in them and we rather thought that they would have less been correlated with this criteria. Moreover, if you generally won’t find a very joyful atmosphere in the banlieues, it is not absolutely rare to encounter a sad atmosphere in the cities or in the countryside, as shown by Figures XXX and XXX. Here is a sample of our outputs concerning families : 
 </p>
-<br>
+
+<br> <br>
+
 <div style="text-align: center;">
   <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%20campagne%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%20ville%203.png?raw=true" width="300"/>
 </div>
-<br>
+
+<br> <br>
+
 banlieue campagne ville
-<br>
+
+<br> <br>
+
 <div style="text-align: center;">
   <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/grafitis.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/black%20skin%20ppl%20color.png?raw=true" width="300"/>
 </div>
-<br>
+
+<br> <br>
+
 <p align="justify">
 One of the very first criteria that we wanted to include onto our analysis grid was the “presence of graffitis”, seeing how recurrent they were for the banlieues, in practically every generated picture for this location, as shown by Figure XXX. A surprise for us in this category was the underrepresentation, globally, of black people/people of colour. Even if they are most represented in the banlieues, that number is not very high compared to the total number of outputs, and additionally, they are not represented in the countryside at all, and only by a very small number in the cities. 
 </p>
-<br>
+
+<br> <br>
+
 <p align="center">
 <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/banlieue%20graffitis.png?raw=true" 
 width="750"
 height="500"/> 
 </p>
-<br>
+
+<br> <br>
+
 <div style="text-align: center;">
   <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/homme%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/femme%203.png?raw=true" width="300"/>
 </div>
-<br>
+
+<br> <br>
+
 <p align="justify">
 You can observe the presence of graffitis in Pictures XXX and XXX. Another comparison observable on those two pictures is the general presentation of the people depicted: whereas the men on Picture XXX seem to be “dirtier”, with clothes of less quality, and have faces that show more wrinkles and marks from their way of life, the women on Picture XXX are displayed wearing clothes that seem more casual than used, and they seem to show quite acceptable hygiene. That disparity is observable if you compare pictures of women or men in the banlieues, for some reason.
 </p>
+
+<br> <br>
 
 C. __Representation of the Religion__
 
