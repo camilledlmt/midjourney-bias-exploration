@@ -222,9 +222,12 @@ C. __Representation of the Religion__
 
 ## Bibliography
 <br><br>
-
+Abdeslam, A. (2019). The Representation of Islam and Muslims in French Print Media Discourse: Le Monde and Le Figaro as Case Studies. Journal of Muslim Minority Affairs 39(4).
 AIExplorer. (2023, January 13). Comment marche MIDJOURNEY? https://aiexplorer.io/actualites-ia/comment-marche-midjourney/ <br>
+Al Jazeera. (2020, October 2). Macron says Islam “in crisis”, prompting backlash from Muslims. https://www.aljazeera.com/news/2020/10/2/macron-announces-new-plan-to-regulate-islam-in-france 
+Dille, J. (2023). Religious Discrimination against Muslims in France. Ballard Brief. https://static1.squarespace.com/static/5f088a46ebe405013044f1a4/t/64186e893ea01c1e7843ca07/1679322763802/JacksonPDF.pdf 
 Donars, A., & Touaf, N. (2020, February 16). La couverture médiatique des banlieues. La Nouvelle Chronique. https://lanouvellechronique.com/2020/02/16/la-couverture-mediatique-des-banlieues/
+Gautier, M. (2023). La Religion en France - Faits et chiffres. Statista. https://fr.statista.com/themes/3234/la-religion-en-france/#topicOverview 
 Guilbeault, M. (2023, July 13). Les banlieues, sous le radar des médias. La Croix. https://www.la-croix.com/France/banlieues-radar-medias-2023-07-13-1201275251
 Harding, P. (2023, March). Global Challenges - Urban Morphology & Violence. Global Challenges. https://globalchallenges.ch/issue/special_2/stagnation-in-the-french-banlieues/
 Ho, K. K. (2024, January 2). Database of 16,000 Artists Used to Train Midjourney AI, Including 6-Year-Old Child, Garners Criticism. https://www.artnews.com/art-news/news/midjourney-ai-artists-database-1234691955/<br>
@@ -238,6 +241,7 @@ Lefebvre, I. (2022, June 28). Life in France’s Banlieues: Overview and Battle 
 Lin, Maire, Belongie, & Bourdev. (2014, May 1). Microsoft COCO: Common Objects in Context. https://paperswithcode.com/paper/microsoft-coco-common-objects-in-context<br>
 Madse, M. C. (s. d.). Banlieues 89: Urban Design and the Urban Question.<br>
 Maker, A. (n.d.). How Midjourney Was Trained. https://imaigic.com/blog/how-mj-was-trained#:~:text=One%20of%20the%20most%20popular<br>
+Maksic, A. & Ahmic, N. (2020). Constructing the Muslim Threat: A Critical Analysis of Marine Le Pen’s Twitter Posts During the 2017 French Election Campaign. Journal of Regional Security 15(1)
 Midjourney. (n.d.). Midjourney Prompts. Docs.midjourney.com. https://docs.midjourney.com/docs/prompts-2<br>
 Observatoire des Inégalités. (2022, October 12). Ville, périurbain, campagne : qui est riche, qui est pauvre ? Observatoire Des Inégalités. https://inegalites.fr/Ville-periurbain-campagne-qui-est-riche-qui-est-pauvre
 Rivai, Z. (2023, June 6). When AI Mirrors Our Flaws: Unveiling Bias in MidJourney. Medium. https://medium.com/@zaida.rivai/when-ai-mirrors-our-flaws-unveiling-bias-in-midjourney-1d5ef73b8e99<br>
