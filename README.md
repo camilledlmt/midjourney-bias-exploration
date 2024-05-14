@@ -158,6 +158,15 @@ height="500"/> </p>
 width="600"
 height="500"/> </p>
 
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/good%20contiion%20environment.png" width="300"/> <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/degraded.png" width="300"/>
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/good%20contiion%20environment.png" width="300" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/degraded.png" width="300" style="margin: 0 10px;">
+</div>
+
 
 
 
