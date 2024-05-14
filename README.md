@@ -75,8 +75,11 @@ B. __Representation of the Environment and the Population__
 <br>
 
 ## Qualitative and Quantitative Analysis
+
 <br>
+
 A. __Representation of the Environment__
+
 <br>
 
 B. __Representation of the Population__
