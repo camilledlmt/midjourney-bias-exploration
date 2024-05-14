@@ -52,13 +52,6 @@ In summary, all of these studies collectively underscore the urgent need for mit
 
 <br> <br>
 
-B. __Representation of the Environment and the Population__
-
-<br>
-
-
-  
-
 <br>
 
 
@@ -111,6 +104,20 @@ Overall, the literature collectively highlights the multifaceted nature of biase
 </p>
 <br>
 <br>
+
+  - __Analysis__
+
+<br>
+
+<p align="justify">
+Categories in this section include: persons, men, women, children, families, and young people. 
+</p>
+<p align="justify">
+Initially, what stood out and allowed us to quickly elaborate a robust analysis grid, were some criteria that were recurring when prompting for the banlieues: cold atmosphere, people living in poor conditions and that do not seem happy overall. 
+</p>
+ADD CORRELATION MATRIX
+
+
 
 C. __Representation of the Religion__
 
