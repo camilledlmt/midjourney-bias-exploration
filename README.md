@@ -14,29 +14,43 @@ Our repository hosts our research as well as data for the Decoding Biases in AI 
 ### How does Midjourney work?
 
 <br>
-
-### Sous-titre 2
-
-<br>
-
-## Lit review
-
-A. __Previous researches__
-
-<br>
-
-<div 
-style="text-align: 
-justify">
-
- 
-“A prompt is a short text phrase that the Midjourney Bot interprets to produce an image. The Midjourney Bot breaks down the words and phrases in a prompt into smaller pieces, called tokens, that are compared to its training data and then used to generate an image. A well-crafted prompt can help make unique and exciting images.”
-Midjourney operates as an image generation platform, relying on proprietary algorithms for its functioning. Users initiate the process by providing prompts, which the system dissects into tokens for analysis. These tokens are then compared against a vast training dataset comprising billions of images. The precise details of the datasets used to train Midjourney are not openly available to the public, but it is likely that a combination of several datasets was used. During extensive research, we identified potential sources such as the Microsoft Common Objects in Context (COCO) dataset, renowned for its 330,000+ images and 2.5 million captions covering around 80 categories of objects, concepts and scenes. Other popular datasets include Visual Genome, with over 108,000 images and 4 million object samples, and Flickr30k, with over 31,000 images and 158,000 text descriptions. It's also conceivable that Midjourney drew on the LAION-400M and LAION-5B datasets, respectively collecting 400 million and 5.85 billion English and multilingual image-text pairs, from web retrievals carried out by a German non-profit organization. In addition, it is alleged that Midjourney may have relied on a potentially illegal database compiling the styles of 16,000 artists, for which they have been sued.
-The system leverages two advanced machine learning technologies: large language models and diffusion models. Large language models, akin to those utilized in generative AI chatbots, aid in semantic comprehension of the prompts. This comprehension is translated into numerical vectors, providing a foundation for the subsequent image generation process. Diffusion models play a crucial role in crafting images based on the prompt's essence. Guided by the numerical vectors derived from the language model, diffusion mechanisms navigate the creative landscape, generating images tailored to the prompt.
+<p align="center">
+<i> 
+“A prompt is a short text phrase that the Midjourney Bot interprets to produce an image. The Midjourney Bot breaks down the words and phrases in a prompt into smaller pieces, called tokens, that are compared to its training data and then used to generate an image. A well-crafted prompt can help make unique and exciting images.” (Midjourney)
+</i> </p> <br>
+<p align="center">
+<img src="https://seeklogo.com/images/M/midjourney-logo-75A1FC1847-seeklogo.com.png" 
+width="200"
+height="170"/> </p>
+<p align="justify">
+Midjourney operates as an image generation platform, relying on proprietary algorithms for its functioning. Users initiate the process by providing prompts, which the system dissects into tokens for analysis. These tokens are then compared against a vast training dataset comprising billions of images. The precise details of the datasets used to train Midjourney are not openly available to the public, but it is likely that a combination of several datasets was used. During extensive research, we identified potential sources such as the Microsoft Common Objects in Context (COCO) dataset, renowned for its 330,000+ images and 2.5 million captions covering around 80 categories of objects, concepts and scenes. Other popular datasets include Visual Genome, with over 108,000 images and 4 million object samples, and Flickr30k, with over 31,000 images and 158,000 text descriptions. It's also conceivable that Midjourney drew on the LAION-400M and LAION-5B datasets, respectively collecting 400 million and 5.85 billion English and multilingual image-text pairs, from web retrievals carried out by a German non-profit organization. In addition, it is alleged that Midjourney may have relied on a potentially illegal database compiling the styles of 16,000 artists, for which they have been sued. <br>
+The system leverages two advanced machine learning technologies: large language models and diffusion models. Large language models, akin to those utilized in generative AI chatbots, aid in semantic comprehension of the prompts. This comprehension is translated into numerical vectors, providing a foundation for the subsequent image generation process. Diffusion models play a crucial role in crafting images based on the prompt's essence. Guided by the numerical vectors derived from the language model, diffusion mechanisms navigate the creative landscape, generating images tailored to the prompt. <br>
 However, Midjourney's effectiveness may be hindered by linguistic diversity. Primarily trained on English-language data, prompts in other languages, particularly those with grammatical complexity, may yield suboptimal results. To mitigate this, users may craft prompts in their native language and utilize translation tools to enhance performance. Overall, Midjourney stands as a testament to the integration of language processing and image synthesis, offering a glimpse into the potential of AI-driven creativity.
+</p>
 
-</div>
 <br>
+
+
+## Literature review
+
+A. __A landscape of previous researches about Midjourney’s biases__
+
+<br>
+<p align="center">
+<img src="https://permutable.ai/wp-content/uploads/2023/12/bias-word-written-color-paper-cards-bias-text-blue-table-your-desing-concept.jpg" 
+width="400"
+height="240"/> </p>
+
+<p align="justify">
+The research findings shed light on various biases present in AI image generation, particularly in the case of Midjourney. The studies reveal pervasive patterns of racial, gender, and age biases, as well as inaccuracies and stereotypes in the generated images.
+In the study by Rivai (2023), it was highlighted that Midjourney consistently fails to accurately represent African-American scientists, reflecting broader systemic biases in the technology and AI industry. Similarly, Hu (2023) observed that white individuals are more frequently depicted in modern environments, while people of color are often confined to natural or studio settings. Furthermore, certain clothing styles were found to be associated with specific genders and races, perpetuating stereotypes.
+A comprehensive analysis of 200 job-related images conducted by Kobie (2023) unveiled several biases. Gender stereotypes were evident, with women depicted in traditionally male-dominated professions but often portrayed in a stereotypical and youthful manner. Ethnic stereotypes were also prevalent, with underrepresentation of diverse ethnic backgrounds and reinforcement of reductive stereotypes. Additionally, age biases were noted, as images tended to depict professionals as younger than the demographic reality of their respective professions. <br>
+The study published by King (2022) investigated Midjourney's representation of mental illness by entering the term "schizophrenia." The generated images depicted grotesque and unnatural facial features, perpetuating harmful stereotypes associated with mental illness and contributing to stigma. <br>
+Further corroborating these findings, the research by Zhou et al. (2024) identified systematic gender and racial prejudices across multiple AI generators, including Midjourney. Subtle biases were observed in facial expressions and appearances, reinforcing stereotypes such as depicting younger, happier women and older, angrier men. vv<br>
+What prompted us to work on the subject of the representation of the French suburbs by image-generating AI tools such as Midjourney was an article published on France Inter by Noémie Lair (2023). The research revealed that Midjourney's artificial intelligence generates stereotyped images of the French suburbs, representing them as tagged and dirty places, with sad characters surrounded by garbage and graffiti. This bias has been denounced by the VTC company Heetch, which operates mainly in the suburbs and is seeking to change this negative perception by launching a communication campaign. Tests carried out confirm this bias, attributed to Midjourney's use of stereotyped databases. This situation raises the need for an audit of content generation by generative AIs to ensure greater transparency and correct these biases, according to experts. In the meantime, Heetch is hoping to change this negative representation of the suburbs through its communication campaign. We therefore decided to take a closer look at this subject by borrowing an analysis of the images generated by Midjourney in different categories, comparing images of the suburbs (“banlieues”) with the city (“villes”) and the countryside (“campagnes”). <br>
+In summary, all of these studies collectively underscore the urgent need for mitigating biases in AI image generation systems like Midjourney. Addressing these biases is essential not only for promoting diversity and inclusion but also for ensuring that AI technologies accurately reflect and represent the complexity of human experiences without perpetuating harmful stereotypes.
+
+<br> <br>
 
 B. __Representation of the Environment and the Population__
 
