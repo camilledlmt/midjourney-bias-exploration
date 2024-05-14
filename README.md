@@ -35,3 +35,8 @@ B. __Representation of the Environment and the Population__
   - collab python pour creer des regression lineaires/etablir des correlations
      
 ## Results of the Quantitative Analysis
+
+
+## Bibliography
+
+add sources here
