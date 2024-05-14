@@ -275,9 +275,13 @@ We could observe a higher rate of violence in the suburbs compared to villages a
 ## Bibliography
 <br><br>
 Abdeslam, A. (2019). The Representation of Islam and Muslims in French Print Media Discourse: Le Monde and Le Figaro as Case Studies. Journal of Muslim Minority Affairs 39(4).
+<br>
 AIExplorer. (2023, January 13). Comment marche MIDJOURNEY? https://aiexplorer.io/actualites-ia/comment-marche-midjourney/ <br>
+<br>
 Al Jazeera. (2020, October 2). Macron says Islam “in crisis”, prompting backlash from Muslims. https://www.aljazeera.com/news/2020/10/2/macron-announces-new-plan-to-regulate-islam-in-france 
+<br>
 Dille, J. (2023). Religious Discrimination against Muslims in France. Ballard Brief. https://static1.squarespace.com/static/5f088a46ebe405013044f1a4/t/64186e893ea01c1e7843ca07/1679322763802/JacksonPDF.pdf 
+<br>
 Donars, A., & Touaf, N. (2020, February 16). La couverture médiatique des banlieues. La Nouvelle Chronique. https://lanouvellechronique.com/2020/02/16/la-couverture-mediatique-des-banlieues/
 Gautier, M. (2023). La Religion en France - Faits et chiffres. Statista. https://fr.statista.com/themes/3234/la-religion-en-france/#topicOverview 
 Guilbeault, M. (2023, July 13). Les banlieues, sous le radar des médias. La Croix. https://www.la-croix.com/France/banlieues-radar-medias-2023-07-13-1201275251
