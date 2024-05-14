@@ -206,7 +206,7 @@ Criteria that show the highest correlations with the banlieue are cool colors (0
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/banlieue%20degraded.png" 
-width="750"
+width="800"
 height="500"/> </p>
 
 <br> <br>
@@ -218,20 +218,20 @@ For the criteria regarding the condition of the environment, we chose not to inc
 <br> <br>
 
 <div style="text-align: center;">
-  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%201.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%20ville%202.png?raw=true" width="300"/>
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%201.png?raw=true" width="400"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%20ville%202.png?raw=true" width="400"/>
 </div>
 “Photo réaliste d’un enfant en France dans une banlieue” vs “Photo réaliste d’un enfant en France dans une ville”
 
 <br> <br>
 
 <div style="text-align: center;">
-  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/cool%20colorss.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/warm%20colorss.png?raw=true" width="300"/>
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/cool%20colorss.png?raw=true" width="400"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/warm%20colorss.png?raw=true" width="400"/>
 </div>
 
 <br> <br>
 
 <div style="text-align: center;">
-  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/sad%20atm.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/joyful.png?raw=true" width="300"/>
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/sad%20atm.png?raw=true" width="400"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/joyful.png?raw=true" width="400"/>
 </div>
 
 <br> <br>
@@ -243,7 +243,7 @@ Our first assumption before prompting and at the very beginning was that the pic
 <br> <br>
 
 <div style="text-align: center;">
-  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%20campagne%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%20ville%203.png?raw=true" width="300"/>
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%202.png?raw=true" width="400"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%20campagne%202.png?raw=true" width="400"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%20ville%203.png?raw=true" width="400"/>
 </div>
 
 <br> <br>
@@ -253,7 +253,7 @@ banlieue campagne ville
 <br> <br>
 
 <div style="text-align: center;">
-  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/grafitis.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/black%20skin%20ppl%20color.png?raw=true" width="300"/>
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/grafitis.png?raw=true" width="400"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/black%20skin%20ppl%20color.png?raw=true" width="400"/>
 </div>
 
 <br> <br>
@@ -273,7 +273,7 @@ height="500"/>
 <br> <br>
 
 <div style="text-align: center;">
-  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/homme%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/femme%203.png?raw=true" width="300"/>
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/homme%202.png?raw=true" width="400"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/femme%203.png?raw=true" width="400"/>
 </div>
 
 <br> <br>
