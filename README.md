@@ -5,6 +5,10 @@ Our repository hosts our research as well as data for the Decoding Biases in AI 
 
 <h1 align="center"><FONT size ="20pt">Decoding Biases in Midjourney</FONT></h1>
 
+<div 
+style="text-align: 
+justify">
+ 
 ## Introduction 
 ### How does Midjourney work?
 ### Sous-titre 2
