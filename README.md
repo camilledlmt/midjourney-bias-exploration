@@ -63,15 +63,26 @@ B. __Representation of the Environment and the Population__
 
 
 ## Méthodologie
+
 <br>
+
   - constitution des catégories
   - grille d'analyse
   - analyse quanti: justification des 20 images par prompt. 60 images par target d'analyse. compter cmb de target par catégories pour total prompt chaque categorie
   - tableau excel avec criteres de la grille d'analyse: analyse a la main de chaque image
   - collab python pour creer des regression lineaires/etablir des correlations
+
 <br>
 
-## Results of the Quantitative Analysis
+## Qualitative and Quantitative Analysis
+<br>
+A. __Representation of the Environment__
+<br>
+
+B. __Representation of the Population__
+<br>
+
+C. __Representation of the Religion__
 
 <br>
 
