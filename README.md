@@ -226,13 +226,49 @@ __Religion in France__
 Midjourney appears to replicate existing religious biases prevalent in France. Amongst prompts demanding religious or believing people, the generated imagery predominantly featured Christians and Muslims, with no representation of other faiths. This observation may partly be attributed to the dominance of Christianity and Islam within the French demographic landscape, comprising 29% and 9% of the population, respectively (Gautier, 2023; Dille, 2023). Nonetheless, religious diversity in France extends beyond these two major religions. Notably, the nation accommodates one of the largest Jewish communities in Europe, constituting 1% of the population, alongside adherents of Buddhism, Sikhism, Shintoism, among others (Gautier, 2023). This disparity in representation was substantiated through both qualitative and quantitative analyses. As illustrated in Figure X, Muslims are predominantly depicted in banlieues, while Christians are portrayed in rural areas (campagnes). However, these correlations lack statistical significance.
 </p>
 <p align="center">
-<img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/heatmap%20religion.png?raw=true" 
+<img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/heatmap%20religion%20new.png?raw=true" 
 width="800"
 height="600"/> </p>
 <br>
 <div style="text-align: center;">
   <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/religion%201.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/religion%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/religion%203.png?raw=true" width="300"/>
 </div>
+<p align="justify">
+Lack of religious diversity was particularly evident in villages, where depictions overwhelmingly portrayed Christianity as the sole religious affiliation. It is a straight contrast with suburbs where the majority of individuals there were Muslims. Moreover, individuals identified as Buddhists were predominantly depicted as people of colour, a correlation supported by quantitative analysis, revealing a statistically significant positive relationship between these variables (0.75). Additionally, a notable demographic trend emerged, with a majority of individuals depicted as elderly, a finding supported by the data presented in Figure X (0.46). The portrayal of Jews by Midjourney was characterised by a sad atmosphere and historical photographs in black and white colours. Christians were predominantly of white skin colour - highlighted by the significant positive correlation in Figure X (0,63). 
+</p>
+<br>
+
+__Religious prejudice against Muslims__
+<br>
+
+<p align="justify">
+France has one of the largest Muslim communities in Europe, comprising nearly 9 % of its total population (Dille, 2023). However, their situation is not favourable as they face various forms of discrimination. Particularly striking is the overrepresentation of Muslims in the prison population, constituting between 40% and 50%. In 2019, the study found that 42 % of Muslims living in France feel discriminated against, while the number reaches 60 % for women who wear veils (Dille, 2023). Among other factors, these sentiments stem from state policies aimed at upholding "laïcité" (secularism) and general societal stereotypes. A study conducted in 2012 concluded that 80 % of French society is of the opinion that Islam is incompatible with the principle of laïcité. Prejudices held by the society against Muslims are fuelled by media coverage and political statements that tend to associate Islam with terrorism and radical worldviews (Abdeslam, 2019). In response to a series of terrorist attacks occurring in France, president Macron went as far as to state that “Islam is a religion that is in crisis all over the world today” (Al Jazeera, 2020). Marine Le Pen, leader of opposition party Rassemblement National,  compared Muslims to Nazis during WW2 (Maksic & Ahmic, 2020). Media often report on Islam in a stereotypical and fear-mongering manner, tying the religion with extremism and incompatibility with French values (Abdeslam, 2019). This is translated into the views held by the public as 72 % of the French population is concerned about the possibility of extremism in Islam (Dille, 2023). All of these discriminatory practices and perspectives are replicated and even exaggerated by the AI.//
+</p>
+<br>
+<p align="justify">
+When generating images based on prompts for "personnes musulmanes" (Muslim individuals), a consistent pattern emerged in their characteristics. Faces of people were predominantly covered, women were wearing burqas or niqabs, and there were no people of colour in the pictures. In addition, all photos generated of Muslims were displaying creepy, scary, and slightly angry people situated in the darker background indicating violent associations that AI has with this religious minority. It might partially reflect the bias present in French society as Islam is often associated with extremism. In one instance, Midjourney provided us with a photo depicting women with dark circles around her eyes that might either reflect her tiredness or result from a violent action. Such a phenomenon was not observed in any other case. The most notable examples are photos of Muslims man holding guns that were produced for the prompts “photo réaliste de des musulmans en France dans une banlieue” and “photo réaliste de personnes croyantes en France dans une banlieue.” Presence of a gun or any other indication of violence was not displayed for any other religion. 
+</p>
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/gun1.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/gun%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/gun%203.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/gun%204.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/gun%205.png?raw=true" width="300"/>
+</div>
+<br>
+<p align="justify">
+The findings from the quantitative analysis align with this observation, demonstrating a notable positive correlation coefficient of 0.75 between Muslims and violence. To further elucidate this relationship, we constructed scatter plots with linear regression lines for both Muslims and Christians/no religion. While for Muslims we observed positive relationships with violence, Christians and individuals with no religious affiliation displayed a negative correlation. This accounts for strong anti-muslim bias present within the scrutinized AI model.
+</p>
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/muslims%20violence.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/christians%20violence.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/sum%20of%20violence%20new.png?raw=true" width="300"/> 
+</div>
+<br>
+<p align="justify">
+We could observe a higher rate of violence in the suburbs compared to villages and cities. This trend is clearly illustrated in Figure X, where a positive correlation coefficient of 0.26 between suburbs and violence contrasts with a negative correlation coefficient of -0.26 between cities and violence.
+</p>
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/banlieue%20violence%20corr.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/ville%20violence.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/campagne%20violence.png?raw=true" width="300"/> 
+</div>
+<br>
 
 
 
