@@ -161,11 +161,19 @@ height="500"/> </p>
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/good%20contiion%20environment.png" width="300"/> <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/degraded.png" width="300"/>
 </div>
-
-<div style="display: flex; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/good%20contiion%20environment.png" width="300" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/degraded.png" width="300" style="margin: 0 10px;">
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/camilledlmt/midjourney-bias-exploration/0b9142e8b2f44d3303e11a63696f4e4393a5a2d8/banlieue%20degraded.png" 
+width="750"
+height="500"/> </p>
+<br>
+<p align="justify">
+For the criteria regarding the condition of the environment, we chose not to include the location of the campagne, mainly because it mostly only displayed fields or natural elements in the background of the pictures. Therefore, it was impossible to evaluate the living conditions of the people that were depicted in the outputs. Globally, we observe a very clear distinction between the living conditions between the banlieues and the cities. Conditions are depicted in a very deplorable way in the banlieue, where the surroundings represented seem at best only degraded, and in the worst cases even completely abandoned, whereas the cities usually represent typical French streets, similar to those you would see in Paris for example, except for some exceptions. Here are representative outputs of the global environment in both banlieues and cities: 
+</p>
+<div style="text-align: center;">
+  <img src="" width="300"/> <img src="" width="300"/>
 </div>
+
 
 
 
