@@ -14,8 +14,6 @@ Our repository hosts our research as well as data for the Decoding Biases in AI 
 
 A. __Previous researches__
 
-<br>
-
 <div 
 style="text-align: 
 justify">
@@ -26,7 +24,6 @@ The system leverages two advanced machine learning technologies: large language 
 However, Midjourney's effectiveness may be hindered by linguistic diversity. Primarily trained on English-language data, prompts in other languages, particularly those with grammatical complexity, may yield suboptimal results. To mitigate this, users may craft prompts in their native language and utilize translation tools to enhance performance. Overall, Midjourney stands as a testament to the integration of language processing and image synthesis, offering a glimpse into the potential of AI-driven creativity.
 
 </div>
-<br>
 
 B. __Representation of the Environment and the Population__
 
