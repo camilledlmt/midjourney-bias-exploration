@@ -132,7 +132,12 @@ Categories in this section include: persons, men, women, children, families, and
 Initially, what stood out and allowed us to quickly elaborate a robust analysis grid, were some criteria that were recurring when prompting for the banlieues: cold atmosphere, people living in poor conditions and that do not seem happy overall. 
 </p>
 <br>
-ADD CORRELATION MATRIX
+
+<p align="center">
+<img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/correlation%20heatmap.png?raw=true" 
+width="800"
+height="600"/> </p>
+
 <br><br>
 
 
