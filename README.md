@@ -220,6 +220,22 @@ C. __Representation of the Religion__
 <br> 
 <br><br>
 
+__Religion in France__
+<br>
+<p align="justify">
+Midjourney appears to replicate existing religious biases prevalent in France. Amongst prompts demanding religious or believing people, the generated imagery predominantly featured Christians and Muslims, with no representation of other faiths. This observation may partly be attributed to the dominance of Christianity and Islam within the French demographic landscape, comprising 29% and 9% of the population, respectively (Gautier, 2023; Dille, 2023). Nonetheless, religious diversity in France extends beyond these two major religions. Notably, the nation accommodates one of the largest Jewish communities in Europe, constituting 1% of the population, alongside adherents of Buddhism, Sikhism, Shintoism, among others (Gautier, 2023). This disparity in representation was substantiated through both qualitative and quantitative analyses. As illustrated in Figure X, Muslims are predominantly depicted in banlieues, while Christians are portrayed in rural areas (campagnes). However, these correlations lack statistical significance.
+</p>
+<p align="center">
+<img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/heatmap%20religion.png?raw=true" 
+width="800"
+height="600"/> </p>
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/religion%201.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/religion%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/religion%203.png?raw=true" width="300"/>
+</div>
+
+
+
 ## Bibliography
 <br><br>
 Abdeslam, A. (2019). The Representation of Islam and Muslims in French Print Media Discourse: Le Monde and Le Figaro as Case Studies. Journal of Muslim Minority Affairs 39(4).
