@@ -43,6 +43,8 @@ However, Midjourney's effectiveness may be hindered by linguistic diversity. Pri
 
 ## Literature review
 
+<br>
+
 A. __A landscape of previous researches about Midjourney’s biases__
 
 <br>
@@ -68,7 +70,7 @@ In summary, all of these studies collectively underscore the urgent need for mit
 ## Méthodologie
 
 <br>
-<br> 
+
 
   - constitution des catégories
   - grille d'analyse
@@ -76,16 +78,14 @@ In summary, all of these studies collectively underscore the urgent need for mit
   - tableau excel avec criteres de la grille d'analyse: analyse a la main de chaque image
   - collab python pour creer des regression lineaires/etablir des correlations
 
-<br><br>
+<br>
 
 
 # Qualitative and Quantitative Analysis
 
 
-<br><br>
+<br>
 
-
-<br><br>
 
 ## Literature Analysis
 
@@ -94,6 +94,7 @@ In summary, all of these studies collectively underscore the urgent need for mit
 A. __Representation of the Environment__
 
 <br>
+
 <p align="justify">
 The landscape of the banlieues is deeply intertwined with France's post-war urban design choices. Following World War II, a housing crisis gripped the nation due to a surge in urban migration and wartime destruction. In response, the government launched a large-scale social housing program (HLM) in the 1950s, under the ["Plan Courant"](https://francearchives.gouv.fr/fr/pages_histoire/39082). This ambitious plan resulted in the construction of vast housing estates, known as "grands ensembles," on the outskirts of major cities. These estates were dominated by high-rise apartment buildings ("barres"), built with the aim of providing affordable and modern housing for a rapidly growing population.
 </p>
@@ -103,14 +104,17 @@ The landscape of the banlieues is deeply intertwined with France's post-war urba
  __Urban design characteristics__
 
 <br>
+
 <p align="justify">
 The banlieues, a term often associated with the suburbs of French cities, have become synonymous with high-density housing. Towering above the urban landscape, these high-rise buildings, frequently surpassing 10 stories, pack a large number of residents into a compact space. The architecture of these structures is regularly critiqued for its monolithic design—uniform and lacking diversity, where the rapidity and efficiency of construction took precedence over aesthetic considerations. This has resulted in a limited amount of green space and public areas, with the original urban planning favoring housing blocks over communal gardens, public squares, or places for community engagement. Furthermore, these neighborhoods are typically segregated from city centers, situated on the outskirts with inadequate public transport links, making access to the city’s heart a challenge. The commercial amenities within the banlieues themselves are often scarce, compounding the sense of isolation from the bustling city life.
 </p>
+
 <br>
 
 __Criticisms and Modernization Efforts__ 
 
 <br>
+
 <p align="justify">
 The banlieues, often stigmatized for unemployment, crime, and social unrest, have long been the subject of critical discourse. Critics point to the very fabric of urban design as a catalyst for these issues, suggesting that the layout promotes isolation, curtails opportunities, and engenders a pervasive sense of disenfranchisement among residents.
 </p>
