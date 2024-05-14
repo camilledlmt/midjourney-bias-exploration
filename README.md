@@ -171,8 +171,57 @@ height="500"/> </p>
 For the criteria regarding the condition of the environment, we chose not to include the location of the campagne, mainly because it mostly only displayed fields or natural elements in the background of the pictures. Therefore, it was impossible to evaluate the living conditions of the people that were depicted in the outputs. Globally, we observe a very clear distinction between the living conditions between the banlieues and the cities. Conditions are depicted in a very deplorable way in the banlieue, where the surroundings represented seem at best only degraded, and in the worst cases even completely abandoned, whereas the cities usually represent typical French streets, similar to those you would see in Paris for example, except for some exceptions. Here are representative outputs of the global environment in both banlieues and cities: 
 </p>
 <div style="text-align: center;">
-  <img src="" width="300"/> <img src="" width="300"/>
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%201.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%20ville%202.png?raw=true" width="300"/>
 </div>
+“Photo réaliste d’un enfant en France dans une banlieue” vs “Photo réaliste d’un enfant en France dans une ville”
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/cool%20colorss.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/warm%20colorss.png?raw=true" width="300"/>
+</div>
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/sad%20atm.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/joyful.png?raw=true" width="300"/>
+</div>
+<br>
+<p align="justify">
+Our first assumption before prompting and at the very beginning was that the pictures that would be generated relating to the banlieues were going to be mostly depicting a gloomy and cold atmosphere, with pictures mainly composed of cool and cold colors. Turns out that given our quantitative analysis, we were right. As shown by Figures XXX and XXX, the majority of the outputs showing a sad atmosphere and cool colors are located in the banlieues. However, we did not anticipate the pictures for the cities to have that much cool colors in them and we rather thought that they would have less been correlated with this criteria. Moreover, if you generally won’t find a very joyful atmosphere in the banlieues, it is not absolutely rare to encounter a sad atmosphere in the cities or in the countryside, as shown by Figures XXX and XXX. Here is a sample of our outputs concerning families : 
+</p>
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%20campagne%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/famille%20ville%203.png?raw=true" width="300"/>
+</div>
+<br>
+banlieue campagne ville
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/grafitis.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/black%20skin%20ppl%20color.png?raw=true" width="300"/>
+</div>
+<br>
+<p align="justify">
+One of the very first criteria that we wanted to include onto our analysis grid was the “presence of graffitis”, seeing how recurrent they were for the banlieues, in practically every generated picture for this location, as shown by Figure XXX. A surprise for us in this category was the underrepresentation, globally, of black people/people of colour. Even if they are most represented in the banlieues, that number is not very high compared to the total number of outputs, and additionally, they are not represented in the countryside at all, and only by a very small number in the cities. 
+</p>
+<br>
+<p align="center">
+<img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/banlieue%20graffitis.png?raw=true" 
+width="750"
+height="500"/> 
+</p>
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/homme%202.png?raw=true" width="300"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/femme%203.png?raw=true" width="300"/>
+</div>
+<br>
+<p align="justify">
+You can observe the presence of graffitis in Pictures XXX and XXX. Another comparison observable on those two pictures is the general presentation of the people depicted: whereas the men on Picture XXX seem to be “dirtier”, with clothes of less quality, and have faces that show more wrinkles and marks from their way of life, the women on Picture XXX are displayed wearing clothes that seem more casual than used, and they seem to show quite acceptable hygiene. That disparity is observable if you compare pictures of women or men in the banlieues, for some reason.
+</p>
+
+
+
+
+
+
+
+
 
 
 
