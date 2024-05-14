@@ -57,7 +57,7 @@ In summary, all of these studies collectively underscore the urgent need for mit
 
 ## Méthodologie
 
-<br>
+<br> <br>
 
   - constitution des catégories
   - grille d'analyse
@@ -65,15 +65,15 @@ In summary, all of these studies collectively underscore the urgent need for mit
   - tableau excel avec criteres de la grille d'analyse: analyse a la main de chaque image
   - collab python pour creer des regression lineaires/etablir des correlations
 
-<br>
+<br><br>
 
 ## Qualitative and Quantitative Analysis
 
-<br>
+<br><br>
 
 A. __Representation of the Environment__
 
-<br>
+<br><br>
 
 B. __Representation of the Population__
 
@@ -103,11 +103,11 @@ Media coverage of suburbs is often negative and stereotypical, focusing primaril
 Overall, the literature collectively highlights the multifaceted nature of biases towards the population and poverty in French banlieues. From unequal resource allocation to historical legacies of urban planning, these biases are shaping different aspects of the public discourse, policy decisions, and finally, the lived experiences of residents of the banlieues. This section aims to evaluate the degree at which Midjourney also reflects those kinds of biases in regards to the representation of the population of the Banlieues. 
 </p>
 <br>
-<br>
+<br><br>
 
   - __Analysis__
 
-<br>
+<br><br>
 
 <p align="justify">
 Categories in this section include: persons, men, women, children, families, and young people. 
@@ -115,17 +115,18 @@ Categories in this section include: persons, men, women, children, families, and
 <p align="justify">
 Initially, what stood out and allowed us to quickly elaborate a robust analysis grid, were some criteria that were recurring when prompting for the banlieues: cold atmosphere, people living in poor conditions and that do not seem happy overall. 
 </p>
+<br>
 ADD CORRELATION MATRIX
-
+<br><br>
 
 
 C. __Representation of the Religion__
 
 <br> 
-<br>
+<br><br>
 
 ## Bibliography
-<br>
+<br><br>
 
 AIExplorer. (2023, January 13). Comment marche MIDJOURNEY? https://aiexplorer.io/actualites-ia/comment-marche-midjourney/ <br>
 Ho, K. K. (2024, January 2). Database of 16,000 Artists Used to Train Midjourney AI, Including 6-Year-Old Child, Garners Criticism. https://www.artnews.com/art-news/news/midjourney-ai-artists-database-1234691955/<br>
