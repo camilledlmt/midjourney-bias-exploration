@@ -1,7 +1,6 @@
 # midjourney-bias-exploration
 Our repository hosts our research as well as data for the Decoding Biases in AI class group project. Our research aims to detect biases in Midjourney.
 
-[Different themes for the website](https://pages.github.com/themes/)
 
 <h1 align="center"><FONT size ="20pt">Decoding Biases in Midjourney</FONT></h1>
 
@@ -11,8 +10,8 @@ Our repository hosts our research as well as data for the Decoding Biases in AI 
 
 <br>
 <p align="justify">
-The Midjourney algorithm might be known best for its impact on the art world. Indeed, it received [global](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html) attention when Jason M. Allen won the Colorado State Fair digital artwork competition in 2022 by using Midjourney to generate his entry (NYT, 2022). This competition generated a  discussion about the future of art, fairness in art competitions, and reminded the public of the increasing capabilities of AI systems. Despite Midjourney’s ability to generate hyper-realistic and high quality artwork, the system has generated controversy due to its apparent biases. In 2023, Heetch, a French VTC company, launched a publicity campaign which put Midjourney’s biases at its centre. It denounced the stereotypes that the algorithm displayed when the word “banlieue” was inserted in a prompt, notably that the environment was often degraded, and people were displayed as sad and poor. 
-</p>p
+The Midjourney algorithm might be known best for its impact on the art world. Indeed, it received global attention when Jason M. Allen won the Colorado State Fair digital artwork competition in 2022 by using Midjourney to generate his entry (NYT, 2022). This competition generated a  discussion about the future of art, fairness in art competitions, and reminded the public of the increasing capabilities of AI systems. Despite Midjourney’s ability to generate hyper-realistic and high quality artwork, the system has generated controversy due to its apparent biases. In 2023, Heetch, a French VTC company, launched a publicity campaign which put Midjourney’s biases at its centre. It denounced the stereotypes that the algorithm displayed when the word “banlieue” was inserted in a prompt, notably that the environment was often degraded, and people were displayed as sad and poor. 
+</p>
 <br>
 <p align="justify">
 This research builds on Heetch’s publicity campaign by studying the systematic biases displayed by Midjourney against the banlieue. For this purpose, our study aims to analyse environmental biases, poverty biases, and religious biases both qualitatively and quantitatively.
@@ -57,29 +56,34 @@ height="240"/> </p>
 The research findings shed light on various biases present in AI image generation, particularly in the case of Midjourney. The studies reveal pervasive patterns of racial, gender, and age biases, as well as inaccuracies and stereotypes in the generated images.
 In the study by Rivai (2023), it was highlighted that Midjourney consistently fails to accurately represent African-American scientists, reflecting broader systemic biases in the technology and AI industry. Similarly, Hu (2023) observed that white individuals are more frequently depicted in modern environments, while people of color are often confined to natural or studio settings. Furthermore, certain clothing styles were found to be associated with specific genders and races, perpetuating stereotypes.
 A comprehensive analysis of 200 job-related images conducted by Kobie (2023) unveiled several biases. Gender stereotypes were evident, with women depicted in traditionally male-dominated professions but often portrayed in a stereotypical and youthful manner. Ethnic stereotypes were also prevalent, with underrepresentation of diverse ethnic backgrounds and reinforcement of reductive stereotypes. Additionally, age biases were noted, as images tended to depict professionals as younger than the demographic reality of their respective professions. <br>
+<br>
 The study published by King (2022) investigated Midjourney's representation of mental illness by entering the term "schizophrenia." The generated images depicted grotesque and unnatural facial features, perpetuating harmful stereotypes associated with mental illness and contributing to stigma. <br>
-Further corroborating these findings, the research by Zhou et al. (2024) identified systematic gender and racial prejudices across multiple AI generators, including Midjourney. Subtle biases were observed in facial expressions and appearances, reinforcing stereotypes such as depicting younger, happier women and older, angrier men. vv<br>
+Further corroborating these findings, the research by Zhou et al. (2024) identified systematic gender and racial prejudices across multiple AI generators, including Midjourney. Subtle biases were observed in facial expressions and appearances, reinforcing stereotypes such as depicting younger, happier women and older, angrier men. <br>
+<br>
 What prompted us to work on the subject of the representation of the French suburbs by image-generating AI tools such as Midjourney was an article published on France Inter by Noémie Lair (2023). The research revealed that Midjourney's artificial intelligence generates stereotyped images of the French suburbs, representing them as tagged and dirty places, with sad characters surrounded by garbage and graffiti. This bias has been denounced by the VTC company Heetch, which operates mainly in the suburbs and is seeking to change this negative perception by launching a communication campaign. Tests carried out confirm this bias, attributed to Midjourney's use of stereotyped databases. This situation raises the need for an audit of content generation by generative AIs to ensure greater transparency and correct these biases, according to experts. In the meantime, Heetch is hoping to change this negative representation of the suburbs through its communication campaign. We therefore decided to take a closer look at this subject by borrowing an analysis of the images generated by Midjourney in different categories, comparing images of the suburbs (“banlieues”) with the city (“villes”) and the countryside (“campagnes”). <br>
-In summary, all of these studies collectively underscore the urgent need for mitigating biases in AI image generation systems like Midjourney. Addressing these biases is essential not only for promoting diversity and inclusion but also for ensuring that AI technologies accurately reflect and represent the complexity of human experiences without perpetuating harmful stereotypes.
-
-<br> <br>
+<br>
+In summary, all of these studies collectively underscore the urgent need for mitigating biases in AI image generation systems like Midjourney. Addressing these biases is essential not only for promoting diversity and inclusion but also for ensuring that AI technologies accurately reflect and represent the complexity of human experiences without perpetuating harmful stereotypes.<br>
 
 <br>
-
 
 ## Methodology
 
 <br>
+
 <p align="justify">
 Our methodology consists of three main steps: prompting, qualitative and quantitative analysis thanks to our analysis grid. All documents mentioned (Excel files and Collab Notebooks) are available in our shared Drive folder. 
 </p>
+
 <br>
 
 1. __Prompting__
+
 <br>
 
   - Categories
+
 <br>
+
 <p align="justify">
 We decided to focus on three main categories to explore Midjourney’s biases: the representation of the environment, the population, and the religion in the French banlieues. We initially also wanted to include a part on the representation of crime but eventually decided not to include it because of unsuccessful initial results when prompted. 
 </p>
