@@ -76,12 +76,11 @@ Our methodology consists of three main steps: prompting, qualitative and quantit
 </p>
 
 <br>
-
-1. __Prompting__
+<h4>Prompting</h4>
 
 <br>
 
-  - Categories
+<ul>Categories</ul>
 
 <br>
 
@@ -101,14 +100,15 @@ We made the choice of starting each prompt with the “une photo réaliste” (a
 </p>
 <br>
 
-  - Numbers
+<ul>Numbers</ul>
+
 <br>
 <p align="justify">
 Each variable is prompted 5 times per location, which accounts for 20 outputs for each location (one Midjourney prompt equals to a square picture of 4 generated images), and so 60 images in total for that variable. We made the choice of having 20 pictures per location per variable after initial findings that the more you prompt (about 25 times to obtain 100 pictures), the less diversity you’ll find, so it would have been an enormous amount of time to generate more pictures, for limited outcomes for our analysis.
 </p>
 <br>
 
-2. __Qualitative analysis__
+<h4>Qualitative Analysis</h4>
 
 <br>
 <p align="justify">
@@ -134,7 +134,7 @@ While criteria relating to facial expressions and the dress code relates more to
 
 <br>
 
-3. __Quantitative analysis__
+<h4>Quantitative Analysis</h4>
 
 <br>
 <p align="justify">
