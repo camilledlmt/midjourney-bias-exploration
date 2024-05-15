@@ -70,13 +70,88 @@ In summary, all of these studies collectively underscore the urgent need for mit
 ## Methodology
 
 <br>
+<p align="justify">
+Our methodology consists of three main steps: prompting, qualitative and quantitative analysis thanks to our analysis grid. All documents mentioned (Excel files and Collab Notebooks) are available in our shared Drive folder. 
+</p>
+<br>
 
+1. __Prompting__
+<br>
 
-  - constitution des catégories
-  - grille d'analyse
-  - analyse quanti: justification des 20 images par prompt. 60 images par target d'analyse. compter cmb de target par catégories pour total prompt chaque categorie
-  - tableau excel avec criteres de la grille d'analyse: analyse a la main de chaque image
-  - collab python pour creer des regression lineaires/etablir des correlations
+  - Categories
+<br>
+<p align="justify">
+We decided to focus on three main categories to explore Midjourney’s biases: the representation of the environment, the population, and the religion in the French banlieues. We initially also wanted to include a part on the representation of crime but eventually decided not to include it because of unsuccessful initial results when prompted. 
+</p>
+<br>
+<p align="justify">
+Each category has different variables to explore: for example, the population biases looks at people, men, women, children and families, whereas the environment one focuses on parks, highschools, libraries or streets, among other factors. Each variable is then prompted for banlieues, cities (ville) and the countryside (campagne) in France using this structure : 
+</p>
+<p align="center">
+"une photo réaliste de [variable] en France dans une [location; banlieue, ville, campagne]"
+</p>
+<br>
+<p align="justify">
+We made the choice of starting each prompt with the “une photo réaliste” (a realistic photograph) proposition because of the artistic nature of the tool Midjourney, and after our initial tests with the tool that delivered mostly artistic outputs that were unusable for our analysis. 
+</p>
+<br>
+
+  - Numbers
+<br>
+<p align="justify">
+Each variable is prompted 5 times per location, which accounts for 20 outputs for each location (one Midjourney prompt equals to a square picture of 4 generated images), and so 60 images in total for that variable. We made the choice of having 20 pictures per location per variable after initial findings that the more you prompt (about 25 times to obtain 100 pictures), the less diversity you’ll find, so it would have been an enormous amount of time to generate more pictures, for limited outcomes for our analysis.
+</p>
+<br>
+
+2. __Qualitative analysis__
+
+<br>
+<p align="justify">
+Before even jumping into a qualitative analysis of our outputs, we made the choice of building our datasets of images in Excel files to be able to conduct an initial qualitative, observative analysis. We aimed at searching what we observed intuitively and if certain images stood out, in order to help us build our analysis grid which would help us later to conduct our quantitative analysis. 
+</p>
+<br>
+  - Analysis grid
+<br>
+<p align="justify">
+After having all of our datasets, we built our analysis grid which aimed at comparing all outputs together for each category. Some of the criteria were more specific to certain categories than others. Here is our complete grid with all the criteria used for the analysis: 
+</p>
+<br>
+| Colors: warm, cool, b&w                 | Presence of natural elements   | Presence of people  | 
+| Atmosphere: joyful, sad                 | Presence of tall buildings     | Men                 |
+| Environment: good condition, degraded   | Presence of graffitis          | Women               | 
+|                                         | Presence of violence           | Elderly             | 
+
+<br>
+
+| Facial expression: happy, neutral, sad   | Muslims                  | 
+| Skin color: white, non-white             | Christians/no religion   | 
+| Dresscode: formal, casual, used          | Jews                     | 
+|                                          | Buddhists                | 
+
+<br>
+<p align="justify">
+While criteria relating to facial expressions and the dress code relates more to the Population category, the condition of the environment and the presence of natural elements or graffitis are more linked to the representation of the environment, and finally some criteria were specific for the Religion category and were not of use for the other two. 
+</p>
+
+<br>
+
+3. __Quantitative analysis__
+
+<br>
+<p align="justify">
+Thanks to our analysis grid, we were able to conduct a quantitative analysis in order for us to put some numbers on our findings. The first step has been to conduct it manually, in an excel sheet: for each variable, we had to count the number of pictures (out of 20 for each location) where there were graffitis, natural elements, more cools or warm colors, and so on for each criteria of our analysis grid. Here is an extract from the excel for the population category so that you can visually represent it (not all the criteria are included in this screenshot):
+</p>
+<br>
+
+<p align="center">
+<img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/screenshot%20quanti.JPG?raw=true" 
+width="800"
+height="500"/> </p>
+
+<br>
+<p align="justify">
+After this very time consuming but useful process, we decided to use Python to conduct linear regressions and correlations to simplify the analysis for us. We imported our files with the manual analysis that we conducted and established correlation heatmaps, bar plots and linear regressions for each category, using the criteria that fit the best each time to conduct the quantitative analysis. Our Collab files with the codes are available in our Drive folder as well as all other documents mentioned in this section. 
+</p>
 
 <br>
 
