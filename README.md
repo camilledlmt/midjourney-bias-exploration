@@ -76,11 +76,11 @@ Our methodology consists of three main steps: prompting, qualitative and quantit
 </p>
 
 <br>
-<h4>Prompting</h4>
+<h4>1. Prompting</h4>
 
 <br>
 
-<ul>Categories</ul>
+<ul>- Categories</ul>
 
 <br>
 
@@ -100,7 +100,7 @@ We made the choice of starting each prompt with the “une photo réaliste” (a
 </p>
 <br>
 
-<ul>Numbers</ul>
+<ul>- Numbers</ul>
 
 <br>
 <p align="justify">
@@ -108,14 +108,14 @@ Each variable is prompted 5 times per location, which accounts for 20 outputs fo
 </p>
 <br>
 
-<h4>Qualitative Analysis</h4>
+<h4>2. Qualitative Analysis</h4>
 
 <br>
 <p align="justify">
 Before even jumping into a qualitative analysis of our outputs, we made the choice of building our datasets of images in Excel files to be able to conduct an initial qualitative, observative analysis. We aimed at searching what we observed intuitively and if certain images stood out, in order to help us build our analysis grid which would help us later to conduct our quantitative analysis. 
 </p>
 <br>
-  - Analysis grid
+<ul>- Analysis Grid</ul>
 <br>
 <p align="justify">
 After having all of our datasets, we built our analysis grid which aimed at comparing all outputs together for each category. Some of the criteria were more specific to certain categories than others. Here is our complete grid with all the criteria used for the analysis: 
@@ -134,7 +134,7 @@ While criteria relating to facial expressions and the dress code relates more to
 
 <br>
 
-<h4>Quantitative Analysis</h4>
+<h4>3. Quantitative Analysis</h4>
 
 <br>
 <p align="justify">
@@ -155,17 +155,14 @@ After this very time consuming but useful process, we decided to use Python to c
 <br>
 
 
-# Qualitative and Quantitative Analysis
+<h2 align="center"><font size="6">Qualitative & Quantitative Analysis</font></h2>
+
+<br>
 
 
 <br>
 
-
-Literature Analysis
-
-<br>
-
-A. __Representation of the Environment__
+<h2 align="center"><font size="6">A. Representation of the Environment</font></h2>
 
 <br>
 
@@ -175,7 +172,8 @@ The landscape of the banlieues is deeply intertwined with France's post-war urba
 
 <br>
 
- __Urban design characteristics__
+<h4>Urban design characteristics</h4>
+ 
 
 <br>
 
@@ -185,7 +183,7 @@ The banlieues, a term often associated with the suburbs of French cities, have b
 
 <br>
 
-__Criticisms and Modernization Efforts__ 
+<h4>Criticisms and Modernization Efforts</h4>
 
 <br>
 
@@ -199,16 +197,17 @@ In response to these challenges, recent decades have witnessed concerted efforts
 <br>
 <br>
 
-__Quantitative Analysis__
+<h4>Quantitative Analysis</h4>
+
 
 With more than 1000 images generated, this part aims to understand how Midjourney depicts the French banlieue environment.
 
-### Understanding the Heatmap
+<h5>Understanding the Heatmap</h5>
 
 The heatmap displays the correlation between different attributes such as "banlieue," "campagne" (countryside), "ville" (city), and various emotional and visual characteristics like "warm colors," "cool colors," "joyful atmosphere," "sad atmosphere," etc. The color scale on the right indicates the strength of the correlation, with red representing a strong positive correlation, blue a strong negative correlation, and white indicating no correlation.
 <img width="826" alt="image9" src="https://github.com/camilledlmt/midjourney-bias-exploration/assets/141839055/8685ab74-52f6-474b-8bdf-0c9d4d0f193a">
 
-### Key Findings
+<h5>Key Findings</h5>
 
 The heatmap reveals several interesting facts about how banlieues are portrayed. For example, there's a strong negative correlation (-0.58) between "banlieue" and "good condition environment." This suggests that banlieues are rarely depicted in good condition within the analyzed data. Conversely, a strong positive correlation (0.52) exists between "banlieue" and "degraded environment," indicating a frequent association with run-down settings. 
 
@@ -218,7 +217,8 @@ Interestingly, the heatmap explores visual characteristics as well. Correlations
 
 Based on more than 50 prompts as neutral as possible, the French banlieue is clearly linked to “degraded environment.” As shown in the graph below, the correlation between the banlieue and a degraded environment suggests that the suburbs of French cities are seen as being more degraded (but also dirtier to an extent) than other areas.
 
-### High School - Prompt
+<h5>High School - Prompt</h5>
+
 “Photo réaliste d’un lycée de banlieue en France” et “Photo réaliste d’un lycée de ville en France”
 <div 
 <div style="display: flex; justify-content: space-between;">
@@ -228,7 +228,8 @@ Based on more than 50 prompts as neutral as possible, the French banlieue is cle
 
 </div>
 
-### The Hospital - Prompt
+<h5>The Hospital - Prompt</h5>
+
 “Photo réaliste d’un hôpital de banlieue en France” et “Photo réaliste d’un hôpital de ville en France”
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img width="665" alt="image7" src="https://github.com/camilledlmt/midjourney-bias-exploration/assets/141839055/f071cb24-9aa8-49db-ba99-ad46986d2925" style="width: 48%;">
@@ -237,14 +238,16 @@ Based on more than 50 prompts as neutral as possible, the French banlieue is cle
 
 </div>
 
-### The Library - Prompt
+<h5>The Library - Prompt</h5>
+
 “Photo réaliste d’une bibliothèque de ville en France” et “Photo réaliste d’une bibliothèque de banlieue en France”
 <div style="display: flex; justify-content: space-between;">
     <img width="478" alt="image1" src="https://github.com/camilledlmt/midjourney-bias-exploration/assets/141839055/748358b4-f46b-4320-a3d1-28e0fb6701a2" style="width: 48%;">
     <img width="517" alt="image2" src="https://github.com/camilledlmt/midjourney-bias-exploration/assets/141839055/fd4b5ddb-0c92-477a-a08f-e50075cbb7d9" style="width: 48%;">
 </div>
 
-### Authentic Street - Prompt
+<h5>Authentic Street - Prompt</h5>
+
 “Photo réaliste d’une scène de rue authentique dans une banlieue en France” et “Photo réaliste d’une scène de rue authentique dans une ville en France”
 
 <div style="display: flex; justify-content: space-between;">
@@ -252,17 +255,17 @@ Based on more than 50 prompts as neutral as possible, the French banlieue is cle
     <img width="517" alt="image4" src="https://github.com/camilledlmt/midjourney-bias-exploration/assets/141839055/2665c62b-f893-4587-bfc9-b6b821db4d8a" style="width: 48%;">
 </div>
 
-### Conclusion
+<h4>Conclusion</h4>
 
 The suburbs are inherently complex to define, which poses a challenge for generative AI models like Midjourney to accurately depict them. The suburban environment is highly diversified, featuring a mix of industrial areas, former company towns, small-scale collective housing, isolated houses, housing estates with varied architectural styles, large collective housing complexes, and innovative new town neighborhoods. However, Midjourney's outputs in 2024 often show dilapidated housing projects or rundown areas that do not accurately reflect the full breadth of suburban landscapes, sometimes even appearing to be outside of France. To mitigate the risks of perpetuating biases, it would be important for developers to create datasets that better capture the nuances and complexities of the suburban concept.
 
 
-B. __Representation of the Population__
+<h2 align="center"><font size="6">B. Representation of the Population</font></h2>
 
 <br>
 <br>
 
-  - __Literature__
+<h3 align="center"><font size="6">Literature</font></h3>
 
 <br>
 
@@ -301,7 +304,7 @@ Overall, the literature collectively highlights the multifaceted nature of biase
 <br>
 <br><br>
 
-  - __Analysis__
+<h3 align="center"><font size="6">Analysis</font></h3>
 
 <br><br>
 
@@ -416,12 +419,12 @@ You can observe the presence of graffitis in the above pictures. Another compari
 
 <br> <br>
 
-C. __Representation of the Religion__
+<h2 align="center"><font size="6">C. Representation of the Religion</font></h2>
 
 <br> 
 <br><br>
 
-__Religion in France__
+<h3 align="center"><font size="6">Religion in France</font></h3>
 <br>
 <p align="justify">
 Midjourney appears to replicate existing religious biases prevalent in France. Amongst prompts demanding religious or believing people, the generated imagery predominantly featured Christians and Muslims, with no representation of other faiths. This observation may partly be attributed to the dominance of Christianity and Islam within the French demographic landscape, comprising 29% and 9% of the population, respectively (Gautier, 2023; Dille, 2023). Nonetheless, religious diversity in France extends beyond these two major religions. Notably, the nation accommodates one of the largest Jewish communities in Europe, constituting 1% of the population, alongside adherents of Buddhism, Sikhism, Shintoism, among others (Gautier, 2023). This disparity in representation was substantiated through both qualitative and quantitative analyses. As illustrated in the below correlation heatmap, Muslims are predominantly depicted in banlieues, while Christians are portrayed in rural areas (campagnes). However, these correlations lack statistical significance.
@@ -439,7 +442,8 @@ Lack of religious diversity was particularly evident in villages, where depictio
 </p>
 <br>
 
-__Religious prejudice against Muslims__
+<h3 align="center"><font size="6">Religious prejudice against Muslims</font></h3>
+
 <br>
 
 <p align="justify">
@@ -471,9 +475,17 @@ We could observe a higher rate of violence in the suburbs compared to villages a
 </div>
 <br>
 
+<h3 align="center"><font size="6">Discussion</font></h3>
+
+<br>
 
 
-## Bibliography
+<h3 align="center"><font size="6">Conclusion</font></h3>
+
+<br>
+
+
+<h3 align="center"><font size="6">Bibliography</font></h3>
 <br><br>
 Abdeslam, A. (2019). The Representation of Islam and Muslims in French Print Media Discourse: Le Monde and Le Figaro as Case Studies. Journal of Muslim Minority Affairs 39(4). <br>
 <br>
