@@ -10,7 +10,7 @@ Our repository hosts our research as well as data for the Decoding Biases in AI 
 
 <br>
 <p align="justify">
-The Midjourney algorithm might be known best for its impact on the art world. Indeed, it received global attention when Jason M. Allen won the Colorado State Fair digital artwork competition in 2022 by using Midjourney to generate his entry (NYT, 2022). This competition generated a  discussion about the future of art, fairness in art competitions, and reminded the public of the increasing capabilities of AI systems. Despite Midjourney’s ability to generate hyper-realistic and high quality artwork, the system has generated controversy due to its apparent biases. In 2023, Heetch, a French VTC company, launched a publicity campaign which put Midjourney’s biases at its centre. It denounced the stereotypes that the algorithm displayed when the word “banlieue” was inserted in a prompt, notably that the environment was often degraded, and people were displayed as sad and poor. 
+The Midjourney algorithm might be known best for its impact on the art world. Indeed, it received global attention when Jason M. Allen won the Colorado State Fair digital artwork competition in 2022 by using Midjourney to generate his entry (Roose, 2022). This competition generated a  discussion about the future of art, fairness in art competitions, and reminded the public of the increasing capabilities of AI systems. Despite Midjourney’s ability to generate hyper-realistic and high quality artwork, the system has generated controversy due to its apparent biases. In 2023, Heetch, a French VTC company, launched a publicity campaign which put Midjourney’s biases at its centre. It denounced the stereotypes that the algorithm displayed when the word “banlieue” was inserted in a prompt, notably that the environment was often degraded, and people were displayed as sad and poor. 
 </p>
 <br>
 <p align="justify">
@@ -253,7 +253,7 @@ Based on more than 50 prompts as neutral as possible, the French banlieue is cle
     <img width="517" alt="image4" src="https://github.com/camilledlmt/midjourney-bias-exploration/assets/141839055/2665c62b-f893-4587-bfc9-b6b821db4d8a" style="width: 48%;">
 </div>
 
-<h4>Conclusion</h4>
+<h4>Discussion</h4>
 
 The suburbs are inherently complex to define, which poses a challenge for generative AI models like Midjourney to accurately depict them. The suburban environment is highly diversified, featuring a mix of industrial areas, former company towns, small-scale collective housing, isolated houses, housing estates with varied architectural styles, large collective housing complexes, and innovative new town neighborhoods. However, Midjourney's outputs in 2024 often show dilapidated housing projects or rundown areas that do not accurately reflect the full breadth of suburban landscapes, sometimes even appearing to be outside of France. To mitigate the risks of perpetuating biases, it would be important for developers to create datasets that better capture the nuances and complexities of the suburban concept.
 
