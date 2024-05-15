@@ -345,7 +345,7 @@ For the criteria regarding the condition of the environment, we chose not to inc
 <br> <br>
 
 <div style="text-align: center;">
-  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%201.png?raw=true" width="400"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%20ville%202.png?raw=true" width="400"/>
+  <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%201.png?raw=true" width="400"/> <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/enfant%20ville%201.png?raw=true" width="400"/>
 </div>
 “Photo réaliste d’un enfant en France dans une banlieue” vs “Photo réaliste d’un enfant en France dans une ville”
 
