@@ -510,6 +510,8 @@ Ho, K. K. (2024, January 2). Database of 16,000 Artists Used to Train Midjourney
 <br>
 Hu, J. (2023, April 6). Bias in Midjourney — It’s not just the Representation, it’s the Art Direction. Medium. https://medium.com/@hujason/race-and-gender-bias-in-midjourney-c43e92f515f <br>
 <br>
+Ipsos, & Cevipof. (2013). France 2013 : les nouvelles fractures.<br>
+<br>
 King, M. (2022). Harmful biases in artificial intelligence. The Lancet Psychiatry, 9(11). https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(22)00312-1/fulltext <br>
 <br>
 Kobie, N. (2023, December 21). Bias in AI: what 200 images of people at work reveal. TechFinitive. https://www.techfinitive.com/features/what-200-job-images-reveal-about-bias-in-ai/ <br>
@@ -517,6 +519,8 @@ Kobie, N. (2023, December 21). Bias in AI: what 200 images of people at work rev
 Kokoreff, D. M., & Lapeyronnie, D. (s. d.). The French Banlieue: Renovating the Suburbs. <br>
 <br>
 Laion. (n.d.). https://laion.ai/ <br>
+<br>
+Lair, N. (2024, February 8). L’IA de génération d’images Midjourney tente de réduire les stéréotypes sur les banlieues françaises. France Inter. https://www.radiofrance.fr/franceinter/l-ia-de-generation-d-images-midjourney-tente-de-reduire-les-stereotypes-sur-les-banlieues-francaises-5303363 <br>
 <br>
 Lair, N. (2023, November 8). Tags, déchets, bâtiments délabrés : quand l’IA reproduit les stéréotypes sur les banlieues. France Inter. https://www.radiofrance.fr/franceinter/tags-dechets-batiments-delabres-quand-l-ia-reproduit-les-stereotypes-sur-les-banlieues-3334839 <br>
 <br>
@@ -538,6 +542,8 @@ Rivai, Z. (2023, June 6). When AI Mirrors Our Flaws: Unveiling Bias in MidJourne
 Roose, K. (2022, September 2). An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy. The New York Times. https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html <br>
 <br>
 Stelzel, P. (2023, May 9). Midjourney: Midjourney Tested In Foreign Languages. https://philipp-stelzel.com/midjourney-foreign-languages/ <br>
+<br>
+Voldman, D. (1953). Vote du plan Courant de construction d’habitations à loyer modéré. FranceArchives. https://francearchives.gouv.fr/fr/pages_histoire/39082<br>
 <br>
 Wankhede, C. (2023, May 15). What is Midjourney AI and how does it work? Android Authority. https://www.androidauthority.com/what-is-midjourney-3324590/ <br>
 <br>
