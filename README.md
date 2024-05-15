@@ -526,6 +526,8 @@ Observatoire des Inégalités. (2022, October 12). Ville, périurbain, campagne 
 <br>
 Rivai, Z. (2023, June 6). When AI Mirrors Our Flaws: Unveiling Bias in MidJourney. Medium. https://medium.com/@zaida.rivai/when-ai-mirrors-our-flaws-unveiling-bias-in-midjourney-1d5ef73b8e99 <br>
 <br>
+Roose, K. (2022, September 2). An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy. The New York Times. https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html <br>
+<br>
 Stelzel, P. (2023, May 9). Midjourney: Midjourney Tested In Foreign Languages. https://philipp-stelzel.com/midjourney-foreign-languages/ <br>
 <br>
 Wankhede, C. (2023, May 15). What is Midjourney AI and how does it work? Android Authority. https://www.androidauthority.com/what-is-midjourney-3324590/ <br>
