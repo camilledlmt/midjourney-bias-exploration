@@ -116,17 +116,11 @@ Before even jumping into a qualitative analysis of our outputs, we made the choi
 After having all of our datasets, we built our analysis grid which aimed at comparing all outputs together for each category. Some of the criteria were more specific to certain categories than others. Here is our complete grid with all the criteria used for the analysis: 
 </p>
 <br>
-| Colors: warm, cool, b&w                 | Presence of natural elements   | Presence of people  | 
-| Atmosphere: joyful, sad                 | Presence of tall buildings     | Men                 |
-| Environment: good condition, degraded   | Presence of graffitis          | Women               | 
-|                                         | Presence of violence           | Elderly             | 
 
-<br>
-
-| Facial expression: happy, neutral, sad   | Muslims                  | 
-| Skin color: white, non-white             | Christians/no religion   | 
-| Dresscode: formal, casual, used          | Jews                     | 
-|                                          | Buddhists                | 
+<p align="center">
+<img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/analysis%20grid.JPG?raw=true" 
+width="900"
+height="200"/> </p>
 
 <br>
 <p align="justify">
@@ -145,8 +139,8 @@ Thanks to our analysis grid, we were able to conduct a quantitative analysis in 
 
 <p align="center">
 <img src="https://github.com/camilledlmt/midjourney-bias-exploration/blob/main/screenshot%20quanti.JPG?raw=true" 
-width="800"
-height="500"/> </p>
+width="900"
+height="200"/> </p>
 
 <br>
 <p align="justify">
