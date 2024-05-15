@@ -532,5 +532,5 @@ Wankhede, C. (2023, May 15). What is Midjourney AI and how does it work? Android
 <br>
 Zhou, M., Abhishek, V., Derdenger, T., Kim, J., & Srinivasan, K. (2024). Bias in Generative AI. Cornell University. https://arxiv.org/pdf/2403.02726 <br>
 <br>
-<h4 align="left"><font size="6">Abolou Maryliz - Delmotte Camille - Kobzova Lucia -  Kleineidam Paul - Reinbold Léo</font></h4>
+<h6 align="left"><font size="6">Abolou Maryliz - Delmotte Camille - Kobzova Lucia -  Kleineidam Paul - Reinbold Léo</font></h6>
  
