@@ -467,14 +467,23 @@ We could observe a higher rate of violence in the suburbs compared to villages a
 </div>
 <br>
 
-<h3 align="center"><font size="6">Discussion</font></h3>
+<h3 align="center"><font size="6">Limitations</font></h3>
 
 <br>
+<p align="justify">
+While this research aims at providing rigorous quantitative and qualitative analysis of biases in Midjourney, it faces several limitations. First, the amount of images generated was limited to 20 per prompt. As stated earlier, this allows us to distinguish the main trends in the system’s output for each prompt. However,  generating even more images would have allowed us to find more precise quantitative relations between studied variables. 
+Second, this analysis was limited to the environment in images generated, the people, and religion, while more pertinent categories could have been explored. For example, stereotypes about crime seemed interesting at first, but were not studied further as we did not find interesting discrepancies between our three settings, and many images were disturbing and thus hard to analyse. However, biases around institutions (hospitals, libraries, administrative buildings…) or age could be investigated more in the future.
+Third, part of the images appeared to be from ancient times, which could lead to an overlap between past and present stereotypes (for instance, think of migration waves that significantly change the population of certain locations). However, given the lack of clear information about the portrayed date, it is hard to define to what extent Midjourney varied the time periods it displayed.
 
 
 <h3 align="center"><font size="6">Conclusion</font></h3>
 
 <br>
+<p align="justify">
+In conclusion, Midjourney displays strong biases against the banlieues and its inhabitants. This is consistent with the advertising campaign of French firm Heetch, which originally sparked our interest for this research. Biases against the banlieues are particularly present with regards to the environment, as they are disproportionately often displayed as dirty and sad. This is similar for people’s clothing, which are more often dirty in the banlieues. Moreover, when comparing the presence of graffiti or at the joyfulness of the atmosphere between banlieues, cities and countryside, the banlieues again stand out as being the dirtiest and saddest setting. 
+Religious biases were also displayed by the algorithm, particularly against muslims. Indeed, we find that Midjourney links Islam to violence (notably through the presence of guns), which it does not for other religions.
+
+These findings are in line with those of a vast literature studying biases in image-generating algorithms or Midjourney in particular. Such issues raise the question of bias mitigation in algorithms, and how best to achieve this. One proposition was made by Heetch, who provided a 4000-image dataset of the banlieues that was intended to improve the model’s perception of the banlieues. While Midjourney claimed that it incorporated these new images (Lair, 2024), our research has shown that this improvement has been ineffective.
 
 
 <h3 align="center"><font size="6">Bibliography</font></h3>
