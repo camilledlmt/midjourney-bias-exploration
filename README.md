@@ -459,7 +459,7 @@ The findings from the quantitative analysis align with this observation, demonst
 </div>
 <br>
 <p align="justify">
-We could observe a higher rate of violence in the suburbs compared to villages and cities. This trend is clearly illustrated in Figure X, where a positive correlation coefficient of 0.26 between suburbs and violence contrasts with a negative correlation coefficient of -0.26 between cities and violence.
+We could observe a higher rate of violence in the suburbs compared to villages and cities. This trend is clearly illustrated in the graph below, where a positive correlation coefficient of 0.26 between suburbs and violence contrasts with a negative correlation coefficient of -0.26 between cities and violence.
 </p>
 <br>
 <div style="text-align: center;">
