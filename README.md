@@ -76,7 +76,7 @@ Our methodology consists of three main steps: prompting, qualitative and quantit
 </p>
 
 <br>
-<h4>1. Prompting</h4>
+<h3>1. Prompting</h3>
 
 <br>
 
@@ -108,7 +108,7 @@ Each variable is prompted 5 times per location, which accounts for 20 outputs fo
 </p>
 <br>
 
-<h4>2. Qualitative Analysis</h4>
+<h3>2. Qualitative Analysis</h3>
 
 <br>
 <p align="justify">
@@ -134,7 +134,7 @@ While criteria relating to facial expressions and the dress code relates more to
 
 <br>
 
-<h4>3. Quantitative Analysis</h4>
+<h3>3. Quantitative Analysis</h3>
 
 <br>
 <p align="justify">
@@ -532,4 +532,5 @@ Wankhede, C. (2023, May 15). What is Midjourney AI and how does it work? Android
 <br>
 Zhou, M., Abhishek, V., Derdenger, T., Kim, J., & Srinivasan, K. (2024). Bias in Generative AI. Cornell University. https://arxiv.org/pdf/2403.02726 <br>
 <br>
-
+<h4 align="left"><font size="6">Abolou Maryliz - Delmotte Camille - Kobzova Lucia -  Kleineidam Paul - Reinbold Léo</font></h4>
+ 
