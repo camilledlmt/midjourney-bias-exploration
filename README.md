@@ -66,7 +66,8 @@ In summary, all of these studies collectively underscore the urgent need for mit
 
 <br>
 
-## Methodology
+<h2 align="center"><font size="6">Methodology</font></h2>
+
 
 <br>
 
